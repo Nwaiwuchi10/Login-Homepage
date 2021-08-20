@@ -1,0 +1,253 @@
+.container {
+    margin-top: 8%;
+    text-align: center;
+    font-size: 190%;
+    font-style: inherit;
+}
+.cont {
+    width: 50%;
+    margin-left: 14%;
+    margin-top: 4%;
+    
+}
+.cont .conts img {
+    width: 47%;
+    height: 35vh;
+}
+@media (max-width:700px) {
+    .cont .conts img    {
+         width: 100%;
+         margin-bottom: 50%;
+    
+    }
+}
+@media (max-width:700px) {
+    .cont    {
+         width: 100%;
+         margin-left: 2%;
+        height: 100vh;
+    
+    }
+}
+@media (max-width:700px) {
+   .cont .conts1 img    {
+        min-width: 100%;
+        margin-top: 60%;
+        margin-left: -52%;
+        
+
+         /* position: absolute;
+         top: 256%;
+         left: 1%;
+         min-width: 100%; */
+
+    }
+}
+.cont .conts1 img {
+    width: 24%;
+    height: 35vh;
+    position: absolute;
+    left: 54%;   
+}
+
+
+.conter{
+    font-size: 70%;
+    font-weight: 550;
+}
+@media (max-width:700px) {
+  .cont .conter   {  
+    position: relative; 
+    top: -42% ;
+     
+    }
+}
+@media (max-width:700px) {
+    .cont .conter1   {  
+      position: relative; 
+      top: -42% ;
+       
+      }
+  }
+  @media (max-width:700px) {
+    .cont .conter3   {  
+      position: relative; 
+      top: -10% ;
+      left: 3%;
+       
+      }
+      .cont .conter4   {
+        position: relative; 
+        top: -9% ;
+        left: 3%;
+      }
+      .cont .conter5  {
+        position: relative; 
+        top: -9% ;
+        left: 3%;
+      }
+      .cont .conter6  {
+        position: relative; 
+        top: -9% ;
+        left: 3%;
+      }
+      .cont .conter7 {
+        position: relative; 
+        top: -9% ;
+        left: 3%;
+      }
+      .cont .conter8 {
+        position: relative; 
+        top: -9% ;
+        left: 3%;
+      }
+      .cont .conter9 {
+        position: relative; 
+        top: -9% ;
+        left: 3%;
+      }
+      .cont .conter10  {
+        position: relative; 
+        top: -9% ;
+        left: 3%;
+      }
+      .cont .conter11  {
+        position: relative; 
+        top: -9% ;
+        left: 3%;
+      }
+      .cont .conter12  {
+        position: relative; 
+        top: -9% ;
+        left: 3%;
+      }
+      .cont .conter13 {
+        position: relative; 
+        top: -9% ;
+        left: 3%;
+      }
+      .cont .conter14 {
+        position: relative; 
+        top: -9% ;
+        left: 3%;
+      }
+      .cont .conter15 {
+        position: relative; 
+        top: -9% ;
+        left: 3%;
+      }
+      .cont .conter16  {
+        position: relative; 
+        top: -9% ;
+        left: 3%;
+      }
+  }
+.conter1 {
+    font-size: 70%;
+    font-weight: 550;
+    margin-bottom: 10%;
+}
+
+.conter3 {
+    position: absolute;
+    left: 54%; 
+    top: 248%;
+    font-size: 70%;
+    font-weight: 550;
+}
+.conter4 {
+    position: absolute;
+    left: 54%; 
+    font-size: 70%;
+    font-weight: 550;
+    top: 252%;
+
+}
+.conter5 {
+    position: absolute;
+    left: 54%; 
+    top: 304%;
+    font-size: 70%;
+    font-weight: 550;
+}
+.conter6 {
+    position: absolute;
+    left: 54%; 
+    font-size: 70%;
+    font-weight: 550;
+    top: 308%;
+
+}
+.conter7 {
+    position: absolute;
+    left: 54%; 
+    top: 358%;
+    font-size: 70%;
+    font-weight: 550;
+}
+.conter8 {
+    position: absolute;
+    left: 54%; 
+    font-size: 70%;
+    font-weight: 550;
+    top: 362%;
+
+}
+.conter9 {
+    position: absolute;
+    left: 54%; 
+    top: 413%;
+    font-size: 70%;
+    font-weight: 550;
+}
+.conter10 {
+    position: absolute;
+    left: 54%; 
+    font-size: 70%;
+    font-weight: 550;
+    top: 417%;
+
+}
+.conter11 {
+    position: absolute;
+    left: 54%; 
+    top: 468%;
+    font-size: 70%;
+    font-weight: 550;
+}
+.conter12 {
+    position: absolute;
+    left: 54%; 
+    font-size: 70%;
+    font-weight: 550;
+    top: 472%;
+}
+.conter13 {
+    position: absolute;
+    left: 54%; 
+    top: 523%;
+    font-size: 70%;
+    font-weight: 550;
+}
+.conter14 {
+    position: absolute;
+    left: 54%; 
+    font-size: 70%;
+    font-weight: 550;
+    top: 527%;
+}
+.conter15 {
+    position: absolute;
+    left: 55%; 
+    top: 578%;
+    font-size: 70%;
+    font-weight: 550;
+}
+.conter16 {
+    position: absolute;
+    left: 55%; 
+    font-size: 70%;
+    font-weight: 550;
+    top: 582%;
+}
+

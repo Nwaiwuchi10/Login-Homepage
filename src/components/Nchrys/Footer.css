@@ -1,0 +1,119 @@
+.footer {
+    background:black;
+    width: 100%;
+    margin-top: -5%;
+    height: 70vh;
+}
+@media (max-width:700px) {
+    .footer {
+        margin-top: 750%;
+        height: 75vh;
+    }
+    .footer h5{
+        margin-top: 385%;
+        margin-left: -20%;
+        font-size: 2px;
+        font-weight: 100;
+        
+        
+    
+    }
+    .last{
+      
+    }
+    
+    .row .p1 {
+       
+        
+        
+    }
+    .row .p2 {
+       
+        
+    
+    }
+    
+    .row .p3 {
+        
+        
+    
+    }
+    
+    .href {
+        margin-top: 400%;
+        margin-left: -10%;
+    }
+   
+    .copy{
+        margin-top: 400%;
+        margin-left: -10%;
+    }
+    
+}
+.footer h5 {
+    color:  white;
+    text-align: center;
+    position: absolute;
+    top: 605%;
+    left: 40%;
+    font-size: 40PX;
+}
+.row {
+    color:white;
+    position: absolute;
+    top: 615%;
+    left: 30%;
+}
+.row .p1 {
+    font-size: 21px;
+    margin: 0%;
+
+}
+.row .p2 {
+    font-size: 20px;
+   margin-left: 4%;
+    
+
+}
+
+.row .p3 {
+    font-size: 21px;
+    left: 28%;
+    position: absolute;
+    
+
+}
+
+.href {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 630%;
+    left: 44.5%;
+}
+a {
+    color: white;
+    margin: 10%;
+    font-size: 20px;
+}
+.copy{
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 642%;
+    left: 43%;
+}
+
+.gi{
+    /* transform-origin: 0 0; 
+     transform: rotate(-30deg); */
+    color: white; 
+}
+@media (max-width:700px)  {
+    .row {
+    margin-top: 390%;
+    margin-left: -25%;
+     font-size:  5px ;
+    
+      }
+    }
